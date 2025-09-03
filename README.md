@@ -1,2 +1,2 @@
-# Artisan-Pallete
+Text to AI Image convertor
 FSD Project
